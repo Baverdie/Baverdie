@@ -4,12 +4,9 @@
 <br>
 
 <div align="center">
-  <a href="https://baverdie.dev" target="_blank">
-    <img src="https://img.shields.io/badge/baverdie.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111">
-  </a>
-  <a href="https://instagram.com/baverdie.fr" target="_blank">
-    <img src="https://img.shields.io/badge/@baverdie.fr-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584">
-  </a>
+
+  <a href="https://baverdie.dev" target="_blank"><img src="https://img.shields.io/badge/baverdie.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111111"></a><!--
+  --><a href="https://instagram.com/baverdie.fr" target="_blank"><img src="https://img.shields.io/badge/@baverdie.fr-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"></a>
 
 </div>
 
